@@ -22,7 +22,7 @@ n
 
 </head>
 <body>
-	                           <img src="Syrgak.jpeg"> 
+	                          <p align="right"><img src="Syr.png" height="300" width="500" alt=""></p>
 	                        
 <body>
 </html>
